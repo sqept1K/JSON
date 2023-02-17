@@ -1,0 +1,26 @@
+  {
+    "favoriteMovies": [
+      {
+        "type": "serial",
+        "genre": "crime",
+        "name": "breaking bad"
+      },
+      {
+        "type": "film",
+        "genre": "drama",
+        "name": "green mile"
+      }
+    ],
+    "favoritesFood": [
+      "hodgepodge",
+      "potatoes",
+      "chiken"
+    ],
+    "country": [
+      "germany",
+      "italy",
+      "france",
+      "iraq",
+      "israel"
+    ]
+  }
