@@ -1,0 +1,19 @@
+{
+ "Name": "Maksim",
+ "Surname": "Borodin",
+ "Patronymic": "Valer'evich",
+ "Age": 29,
+ "Pets": [
+  	{
+  	"Type": "Dog",
+  	"Name": "Margo",
+  	"Breed": "Spitz"
+  	},
+  	{
+   	"Type": "Cat",
+   	"Name": "Musya",
+   	"Breed": "BlackPanther"
+  	}
+ ],
+ "Salary": "5000$"
+}
